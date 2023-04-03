@@ -6,4 +6,9 @@
 }
 form{
     width: 50%;
+    margin-left: 50px;
+}
+h1{
+    margin-bottom: 20px;
+    margin-left: 40px;
 }
