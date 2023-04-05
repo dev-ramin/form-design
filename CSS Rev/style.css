@@ -1,3 +1,10 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
 h1{
-    color: red;
+    color: var(--main-color)
+}
+:root{
+    --main-color: green;
 }
