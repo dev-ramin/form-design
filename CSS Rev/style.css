@@ -12,3 +12,22 @@ h1{
 p{
     color: var(--text-color);
 }
+.box{
+    width: 200px;
+    height: 200px;
+    border: 1px solid indigo;
+}
+#box1{
+    background-color: antiquewhite;
+}
+#box2{
+    background-color: rgb(145, 108, 61);
+}
+#box3{
+    background-color: rgb(50, 190, 31);
+    display: none;
+    /* visibility: hidden; */
+}
+#box4{
+    background-color: rgb(22, 199, 184);
+}
